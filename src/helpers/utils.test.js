@@ -1,5 +1,4 @@
 import { expect } from "@jest/globals";
-import { array } from "yargs";
 import { isIdentical, isObject, isEmptyObject, convertToArray } from "./utils";
 
 describe("Utility function tests", () => {
